@@ -1,5 +1,5 @@
-## Hello, my name is Pablo 👋
-✨ **I am a FullStack Developer in training**  ✨ 
+## Hi, my name is Pablo 👋
+✨ **I'm a FullStack Developer in training**  ✨ 
 
 I master the three basic front-end technologies  
 and currently I continue training in: 
