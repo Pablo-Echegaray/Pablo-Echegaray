@@ -1,13 +1,14 @@
 ## Hi, my name is Pablo 👋
-✨ **I'm a FullStack Developer in training**  ✨ 
+✨ **I'm a FullStack Developer Junior**  ✨ 
 
-I master the three basic front-end technologies  
-and currently I continue training in: 
+I master the following technologies: 
 
-- React 
-- Redux
-- NodeJS backend
+- HTML5 - CSS3 - JavaScript 
+- ReactJS - Redux
+- NodeJS - ExpressJS
 - Mongo DB
+
+I am also a Web Development student at the Universidad Nacional de La Matanza.
 
 ⚡ **I would like to get my first IT job so that  
 I can continue to grow and expand my knowledge.**
