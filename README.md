@@ -8,7 +8,7 @@ I master the following technologies:
 - NodeJS - ExpressJS
 - Mongo DB
 
-I am also a Web Development student at the Universidad Nacional de La Matanza.
+I am also a Web Developer student at the Universidad Nacional de La Matanza.
 
 ⚡ **I would like to get my first IT job so that  
 I can continue to grow and expand my knowledge.**
