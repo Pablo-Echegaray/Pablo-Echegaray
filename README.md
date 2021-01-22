@@ -1,5 +1,5 @@
 ## Hi, my name is Pablo 👋
-✨ **I'm a FullStack Developer Junior**  ✨ 
+✨ **I'm a FullStack Web Developer Junior**  ✨ 
 
 I master the following technologies: 
 
