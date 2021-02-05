@@ -22,3 +22,5 @@ I recently finished some fullstack NodeJS developer courses where I learned to h
 ⚡ **I would like to get my first IT job so that  
 I can continue to grow and expand my knowledge.**
 
+✨   ✨ 
+
