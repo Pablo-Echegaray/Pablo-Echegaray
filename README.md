@@ -1,14 +1,14 @@
 ## Hi, my name is Pablo 👋
-✨ **I'm a FullStack Web Developer Junior**  ✨ 
+✨ ****  ✨ 
 
-I master the following technologies: 
-
+I recently finished some fullstack NodeJS developer courses where I learned to handle the following technologies: 
+**Frontend**
 - HTML5 - CSS3 - JavaScript 
 - ReactJS - Redux
+**Backend**
 - NodeJS - ExpressJS
+**Data base (noSql)**
 - Mongo DB
-
-I am also a Web Developer student at the Universidad Nacional de La Matanza.
 
 ⚡ **I would like to get my first IT job so that  
 I can continue to grow and expand my knowledge.**
