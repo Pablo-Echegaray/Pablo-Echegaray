@@ -7,10 +7,10 @@ I recently finished some fullstack NodeJS developer courses where I learned to h
 
 - HTML5 - CSS3 - JavaScript 
 - ReactJS - Redux
-#### **Backend
+#### *Backend*
 
 - NodeJS - ExpressJS
-#### **Data base (noSql)**
+#### *Data base _(noSql)_*
 
 - Mongo DB
 
