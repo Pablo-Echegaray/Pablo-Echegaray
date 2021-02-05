@@ -3,11 +3,14 @@
 
 I recently finished some fullstack NodeJS developer courses where I learned to handle the following technologies: 
 **Frontend**
+
 - HTML5 - CSS3 - JavaScript 
 - ReactJS - Redux
-**Backend**
+**Backend
+
 - NodeJS - ExpressJS
 **Data base (noSql)**
+
 - Mongo DB
 
 ⚡ **I would like to get my first IT job so that  
