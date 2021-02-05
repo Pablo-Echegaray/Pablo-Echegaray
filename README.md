@@ -3,7 +3,7 @@
 
 ****
 
-I recently finished some fullstack NodeJS developer courses where I learned to handle the following technologies: 
+_I recently finished some fullstack NodeJS developer courses where I learned to handle the following technologies_: 
 ****
 
 ✨   ✨ 
