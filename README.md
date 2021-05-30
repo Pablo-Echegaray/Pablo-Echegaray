@@ -17,6 +17,7 @@ __A continuación están las teconologías con las cuales he estado trabajando h
 #### *Backend*
 
 - NodeJS - ExpressJS
+- Java
 #### *Data base _(noSql)_*
 
 - Mongo DB
