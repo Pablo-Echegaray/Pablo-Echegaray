@@ -22,7 +22,7 @@ __A continuación están las teconologías con las cuales he estado trabajando h
 
 - Mongo DB
 
-⚡ **Pronto tendré mas y mejores proyectos en mi repositorio. Por el momento, el esfuerzo de cada día suma.  **
+⚡ **Pronto tendré mas y mejores proyectos para mostrar. Por el momento, el esfuerzo de cada día suma.  **
 
 ✨   ✨ 
 
