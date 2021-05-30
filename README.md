@@ -1,9 +1,11 @@
-## Hi, my name is Pablo 👋
+## Hola, mi nombre es Pablo 👋
 ✨   ✨ 
 
 ****
 
-__I recently finished some fullstack NodeJS developer courses where I learned to handle the following technologies__: 
+__Estudio Desarrollo Web en la facu de La Mataza. También hice una serie de cursos en Educación IT: 
+****
+__A continuación están las teconologías con las cuales he estado trabajando hasta el momento.
 ****
 
 ✨   ✨ 
@@ -19,8 +21,7 @@ __I recently finished some fullstack NodeJS developer courses where I learned to
 
 - Mongo DB
 
-⚡ **I would like to get my first IT job so that  
-I can continue to grow and expand my knowledge.**
+⚡ **Pronto tendré mas y mejores proyectos en mi repositorio. Por el momento, el esfuerzo de cada día suma.  **
 
 ✨   ✨ 
 
