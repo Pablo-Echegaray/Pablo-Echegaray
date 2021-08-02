@@ -3,7 +3,7 @@
 
 ****
 
-__Estudio Desarrollo Web en la facu de La Mataza. También hice una serie de cursos en Educación IT: 
+__Estudio Desarrollo Web en la facu de La Mataza. También hice una serie de cursos en Educación IT
 ****
 __A continuación están las teconologías con las cuales he estado trabajando hasta el momento.
 ****
