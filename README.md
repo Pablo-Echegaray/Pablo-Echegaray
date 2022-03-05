@@ -3,7 +3,7 @@
 
 ****
 
-__Estudio Desarrollo Web en la facu de La Matanza. También hice una serie de cursos en Educación IT
+__Estudio Desarrollo Web en la Universidad de La Matanza. También hice una serie de cursos en Educación IT
 ****
 __A continuación están las teconologías con las cuales he estado trabajando hasta el momento.
 ****
@@ -18,11 +18,12 @@ __A continuación están las teconologías con las cuales he estado trabajando h
 
 - NodeJS - ExpressJS
 - Java
-#### *Data base _(noSql)_*
+#### *Data base*
 
 - Mongo DB
+- MySQL
 
-⚡ **Pronto tendré mas y mejores proyectos para mostrar. Por el momento, el esfuerzo de cada día suma.  **
+⚡ ** **
 
 ✨   ✨ 
 
