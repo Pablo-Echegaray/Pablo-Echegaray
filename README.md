@@ -13,10 +13,10 @@ __A continuación están las teconologías con las cuales he estado trabajando h
 #### *Frontend*
 
 - HTML5 - CSS3 - JavaScript 
-- ReactJS - Redux
+- ReactJS
 #### *Backend*
 
-- NodeJS - ExpressJS
+- NodeJS
 - Java
 #### *Data base*
 
