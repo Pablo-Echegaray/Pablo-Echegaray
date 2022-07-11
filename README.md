@@ -20,7 +20,7 @@
 - Python 
 #### *Base de Datos*
 
-- SQL : MySQL
+- SQL -> Gestor de Base de Datos :  MySQL
 
 ⚡ ** **
 
