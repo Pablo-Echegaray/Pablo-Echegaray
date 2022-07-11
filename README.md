@@ -3,9 +3,9 @@
 
 ****
 
-__Estudio Desarrollo Web en la Universidad de La Matanza. También hice una serie de cursos en Educación IT
+-> Soy estudiante de la Tecnicatura en Desarrollo Web de la Universidad Nacional de La Matanza.
 ****
-__A continuación están las teconologías con las cuales he estado trabajando hasta el momento.
+-> Me interesa mas que nada el desarrollo Backend. Mi lenguaje base es JAVA, pero me encuentro capacitandome en Python por mi trabajo.
 ****
 
 ✨   ✨ 
@@ -13,15 +13,14 @@ __A continuación están las teconologías con las cuales he estado trabajando h
 #### *Frontend*
 
 - HTML5 - CSS3 - JavaScript 
-- ReactJS
+- ReactJS (bases)
 #### *Backend*
 
-- NodeJS
-- Java
-#### *Data base*
+- JAVA
+- Python 
+#### *Base de Datos*
 
-- Mongo DB
-- MySQL
+- SQL : MySQL
 
 ⚡ ** **
 
