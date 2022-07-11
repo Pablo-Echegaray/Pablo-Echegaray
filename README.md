@@ -5,7 +5,7 @@
 
 -> Soy estudiante de la Tecnicatura en Desarrollo Web de la Universidad Nacional de La Matanza.
 ****
--> Me interesa mas que nada el desarrollo Backend. Mi lenguaje base es JAVA, pero estoy capacitandome en Python por mi trabajo.
+-> Me interesa mas que nada el desarrollo Backend. Mi lenguaje base es Java, pero estoy capacitandome en Python por mi trabajo.
 ****
 
 ✨   ✨ 
@@ -16,7 +16,7 @@
 - ReactJS (bases)
 #### *Backend*
 
-- JAVA
+- Java
 - Python 
 #### *Base de Datos*
 
