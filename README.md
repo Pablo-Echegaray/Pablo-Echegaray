@@ -1,27 +1,37 @@
-## Hola, mi nombre es Pablo 👋
+## Hi, my name is Pablo 👋
 ✨   ✨ 
 
 ****
 
--> Soy estudiante de la Tecnicatura en Desarrollo Web de la Universidad Nacional de La Matanza.
+-> I´m a Web Development student at the Universidad Nacional de La Matanza.
 ****
 ****
 
 ✨   ✨ 
 
-#### *Frontend*
+#### *Frontend Languages*
 
-- HTML5 - CSS3 - JavaScript 
+- HTML5 - CSS3 - JavaScript
+
+#### *Frontend Frameworks*
+
 - ReactJS (bases)
-#### *Backend*
+- 
+#### *Backend Languages*
 
 - Java
-- Python 
-#### *Base de Datos*
+- Python
 
-- SQL -> Gestor de Base de Datos :  MySQL
+#### *Backend Frameworks*
+
+- Springboot (Java)
+- Flask (Python)
+
+#### *Database*
+
+- SQL -> MySQL, SQLite
 
 ⚡ ** **
-
+I work as a helpdesk support and I love everything related to technology. I try to improve day by day as a programmer to aspire in the future to be able to join a challenging project.
 ✨   ✨ 
 
