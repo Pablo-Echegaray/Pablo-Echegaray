@@ -16,7 +16,7 @@
 #### *Frontend Frameworks*
 
 - ReactJS (bases)
-- 
+  
 #### *Backend Languages*
 
 - Java
@@ -29,9 +29,11 @@
 
 #### *Database*
 
-- SQL -> MySQL, SQLite
+- SQL -> MySQL
 
 ⚡ ** **
+
 I work as a helpdesk support and I love everything related to technology. I try to improve day by day as a programmer to aspire in the future to be able to join a challenging project.
+
 ✨   ✨ 
 
