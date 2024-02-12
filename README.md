@@ -24,7 +24,7 @@
 
 #### *Backend Frameworks*
 
-- Springboot (Java)
+- Spring (Java)
 - Flask (Python)
 
 #### *Database*
