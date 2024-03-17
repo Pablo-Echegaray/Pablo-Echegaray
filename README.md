@@ -33,7 +33,7 @@
 
 ⚡ ** **
 
-I work as a helpdesk support and I love everything related to technology. I try to improve day by day as a programmer to aspire in the future to be able to join a challenging project.
+I work as a technical support and I love everything related to technology. The area in which I currently work has awakened new interests in me in terms of systems management and monitoring, so I am not only interested in the design and development of software systems but also everything related to maintenance, management, monitoring and searching for permanent improvements both at the performance and functionality level, as well as at the user experience level.
 
 ✨   ✨ 
 
