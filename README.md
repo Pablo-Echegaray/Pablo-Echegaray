@@ -33,7 +33,7 @@
 
 ⚡ ** **
 
-I work as a technical support and I love everything related to technology. The area in which I currently work has awakened new interests in me in terms of systems management and monitoring, so I am not only interested in the design and development of software systems but also everything related to maintenance, management, monitoring and search for reliability of the systems to guarantee permanent improvements.
+I love everything related to technology. The area in which I currently work has awakened new interests in me in terms of systems management and monitoring, so I am not only interested in the design and development of software systems but also everything related to maintenance, management, monitoring and search for reliability of the systems to guarantee permanent improvements.
 
 ✨   ✨ 
 
